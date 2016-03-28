@@ -56,7 +56,7 @@
 	{"id":"WV","total_delegates":35,"district":17,"at_large":6,"PLEO":3,"super_delegates":9},
 	{"id":"WI","total_delegates":89,"district":52,"at_large":17,"PLEO":10,"super_delegates":10},
 	{"id":"WY","total_delegates":8,"district":3,"at_large":2,"PLEO":4,"super_delegates":17},
-    {"id":"Abroad","total_delegates":17,"district":0,"at_large":12,"PLEO":1,"super_delegates":4},
+        {"id":"Abroad","total_delegates":17,"district":0,"at_large":12,"PLEO":1,"super_delegates":4},
   	{"id":"Unassigned","total_delegates":1,"district":0,"at_large":0,"PLEO":0,"super_delegates":1}
 	]
 }
